@@ -11,6 +11,7 @@ SKD Hisobotlar: Masofa bo'yicha tahliliy ma'lumotlarni shakllantirish.
 Managed Forms: Zamonaviy boshqariladigan shakllar interfeysi.
 
 ![Asosiy oyna](screenshots/1с_ЙулВаракаси.JPG)
+
 🏗 Loyiha Strukturasi (Metadata)
 📁 Ma'lumotnomalar (Справочники)
 ТранспортВоситалари — Avtopark ro'yxati.
@@ -35,3 +36,5 @@ Managed Forms: Zamonaviy boshqariladigan shakllar interfeysi.
 
 📈 Hisobotlar (Отчеты)
 ПробегХисоботи — Ma'lumotlar kompozitsiyasi tizimi (СКД) yordamida yaratilgan, haydovchilar va transportlar kesimidagi tahliliy hisobot.
+
+![oyna](screenshots/Отч_пробег.JPG)
