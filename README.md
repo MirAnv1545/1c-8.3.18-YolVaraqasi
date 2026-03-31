@@ -10,6 +10,7 @@ SKD Hisobotlar: Masofa bo'yicha tahliliy ma'lumotlarni shakllantirish.
 
 Managed Forms: Zamonaviy boshqariladigan shakllar interfeysi.
 
+![Asosiy oyna](screenshots/1с_ЙулВаракаси.JPG)
 🏗 Loyiha Strukturasi (Metadata)
 📁 Ma'lumotnomalar (Справочники)
 ТранспортВоситалари — Avtopark ro'yxati.
